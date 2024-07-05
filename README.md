@@ -1,4 +1,5 @@
 # Task Board
+ ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Overview
 
@@ -10,7 +11,6 @@ The Task Board Project is a web application designed to help project team member
   - [Usage](#usage)
   - [Installation](#installation)
   - [License](#license)
-  - [Questions](#questions)
 
 ## Key Features
 
@@ -38,10 +38,10 @@ The Task Board Project is a web application designed to help project team member
 
 **Clone the Repository**
 ```
-git clone https://github.com/yourusername/task-board.git
+git clone https://yueyue426.github.io/task-board/
 ```
 
-## License ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+## License
 
 This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license
 

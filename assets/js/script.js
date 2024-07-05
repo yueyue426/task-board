@@ -132,10 +132,6 @@ function handleDrop(event, ui) {
         // Update the tasks in localStorage
         localStorage.setItem("tasks", JSON.stringify(taskList));
         
-        // // If the task is moved to the Done lane, set its color to white
-        // if (newStatus === 'done') {
-        //     card.removeClass('bg-danger').addClass('bg-white');
-        // }
         // Re-render the task list
         renderTaskList();
     }
